@@ -1,6 +1,3 @@
-8-24_hours.c CODE
-
-
 #include "main.h"
 
 
